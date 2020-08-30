@@ -1,0 +1,24 @@
+{
+  "name": "pro-card-front",
+  "version": "1.0.0",
+  "description": "prueba tecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeulisesrivera/pro-card-front.git"
+  },
+  "author": "Jorge Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeulisesrivera/pro-card-front/issues"
+  },
+  "homepage": "https://github.com/jorgeulisesrivera/pro-card-front#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "wepack-cli": "0.0.1-security"
+  }
+}
